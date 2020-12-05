@@ -1,4 +1,4 @@
-<p align="center"><a href="#" ><img src="https://i.ibb.co/KbzvJj4/1-MAnu-Uwghp-P3-X0zoy67-P4m-A.png" width="300"></a></p>  
+<p align="center"><a href="#" ><img src="https://i.ibb.co/KbzvJj4/1-MAnu-Uwghp-P3-X0zoy67-P4m-A.png" width="600"></a></p>  
  <h1 align="center">Laravel | Lumen Rest Api Parctice</h1> 
 
 > ## What is Laravel Lumen !
