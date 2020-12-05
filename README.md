@@ -10,6 +10,10 @@ Composer: Composer is a tool for dependency management in PHP. It allows you to 
 
 Xampp : XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5fca286dd1411e7fde28030abbf4f2e60acecb4c
 > ### Lumen Installation Commands:
 
 ```sh
