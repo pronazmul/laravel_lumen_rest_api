@@ -26,6 +26,3 @@ Xampp : XAMPP is a free and open-source cross-platform web server solution stack
     php -S localhost:8000 -t public
 ```
 
-<h2>What is Reducer?</h2>
-
->> A reducer is a pure function that takes the previous state and an action as arguments and returns a new state.
