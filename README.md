@@ -23,7 +23,7 @@
 
 >## Installation Command: 
 * 	install_command: composer create-project --prefer-dist laravel/lumen blog
-* 	Development server: php -S localhost:8000 -t public 
+* 	Development server: php -S localhost:8000 -t public  
 
 ### Laravel Lumen Generator: 
 * Install: composer require flipbox/lumen-generator
